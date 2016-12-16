@@ -9,7 +9,7 @@
 
 ## 3 Instrumente
 * [Die Hop-on Instrumente GitBook und Fahrplan ](./die-hop-on-instrumente-buch-und-fahrplan.md)
-    * [Das Hop-on-GitBook](./hopon-gitbook.md)
+    * [Das Hop-on-GitBook](./hopon-buch.md)
     * [Der Hop-on-Fahrplan](./hopon-fahrplan.md)
 
 ## 4 Szenarien
