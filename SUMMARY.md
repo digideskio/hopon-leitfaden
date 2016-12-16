@@ -8,7 +8,7 @@
 * [Zielgruppe von Hop-on](./zielgruppen-von-hop-on.md)
 
 ## 3 Instrumente
-* [Die Hop-on Instrumente GitBook und Fahrplan ](./die-hop-on-instrumente-gitBook-und-fahrplan.md)
+* [Die Hop-on Instrumente GitBook und Fahrplan ](./die-hop-on-instrumente-buch-und-fahrplan.md)
     * [Das Hop-on-GitBook](./hopon-gitbook.md)
     * [Der Hop-on-Fahrplan](./hopon-fahrplan.md)
 
