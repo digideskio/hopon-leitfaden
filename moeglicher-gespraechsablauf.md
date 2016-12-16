@@ -20,7 +20,7 @@ Das Ergebnis des Fahrplans beinhaltet alle möglichen Wege zu einem Berufsabschl
 
 In einer persönlichen Beratung könnte also geklärt werden, ob eine Nachqualifizierung vor Ort angeboten wird, ob die beruflichen Erfahrungen in Absprache mit der anbietenden Institution für die Teilnahme an der Nachqualifizierung ausreichen und welche Finanzierungsmöglichkeiten es gibt \(Angebote über einen Bildungsgutschein oder den Europäischen Sozialfonds\) bzw. wie eine Finanzierung beantragt werden kann.
 
-Das GitBook liefert für die weiteren Schritte Informationen, zum Beispiel zum Thema Nachqualifizierung oder Finanzierung über einen Bildungsgutschein.
+Das Hop-on Buch liefert für die weiteren Schritte Informationen, zum Beispiel zum Thema Nachqualifizierung oder Finanzierung über einen Bildungsgutschein.
 
 ### Besprechung möglicher Hürden
 
